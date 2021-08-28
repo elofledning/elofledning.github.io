@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    /* animation: infinite; */
+}
+
+div {
+    text-align: center;
+}
+
+.blockdiv {
+    background-color: white;
+    width: 30px;
+}
